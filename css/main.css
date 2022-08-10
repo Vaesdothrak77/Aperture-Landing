@@ -356,9 +356,8 @@ label {
 .section-fuji {
    	max-width: 100%;
 	min-height: 100%;
-   
 
-	background: url(../img/background/fuji.jpg) no-repeat center center;
+	background: url(../img/background/bg.jpg) no-repeat center center;
 -webkit-background-size: cover;
    -moz-background-size: cover;
      -o-background-size: cover;
@@ -523,9 +522,8 @@ label {
 .section-leafs {
   	max-width: 100%;
 	min-height: 100%;
-   
 
-	background: url(../img/background/1.jpg) no-repeat center center;
+	background: url(../img/background/bg.jpg) no-repeat center center;
 -webkit-background-size: cover;
    -moz-background-size: cover;
      -o-background-size: cover;
@@ -627,9 +625,8 @@ label {
 .section-himalayas {
    	max-width: 100%;
 	min-height: 100%;
-   
 
-	background: url(../img/background/himalayasbg.jpg) no-repeat center center;
+	background: url(../img/background/bg.jpg) no-repeat center center;
 -webkit-background-size: cover;
    -moz-background-size: cover;
      -o-background-size: cover;
